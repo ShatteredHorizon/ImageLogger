@@ -1,5 +1,5 @@
 # Discord Image Logger
-# By Brownie :)
+# By Brownie :) Well i stole it off some github repo, just ignore that lol :)
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
